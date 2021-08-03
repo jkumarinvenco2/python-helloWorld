@@ -13,4 +13,6 @@ print(least_difference(1,10,100))
 print(least_difference(1212,123,35435))
 help(least_difference)
 
+print(1,2,3,4, sep='++')
+
 
