@@ -22,3 +22,9 @@ print(hands[0])
 
 planets[3] = 'Malacandra'
 print(planets)
+print(sorted(planets))
+
+print(len(planets))
+
+print(sum(primes))
+print(max(primes))
