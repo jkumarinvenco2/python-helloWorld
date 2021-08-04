@@ -28,3 +28,14 @@ print(len(planets))
 
 print(sum(primes))
 print(max(primes))
+
+#**************interclude:Objects*********
+x=12
+print(x.imag)
+y= 12+3j
+print((y.imag))
+
+help(planets.append)
+
+print(planets.index('Mercury'))
+
