@@ -39,3 +39,5 @@ help(planets.append)
 
 print(planets.index('Mercury'))
 
+for planet in planets:
+    print(planet, end=' ')
